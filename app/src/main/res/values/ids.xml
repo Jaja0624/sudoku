@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="n_word1" type="id" />
+    <item name="n_word2" type="id" />
+    <item name="n_word3" type="id" />
+    <item name="n_word4" type="id" />
+    <item name="n_word5" type="id" />
+    <item name="n_word6" type="id" />
+    <item name="n_word7" type="id" />
+    <item name="n_word8" type="id" />
+    <item name="n_word9" type="id" />
+    <item name="n_word10" type="id" />
+    <item name="n_word11" type="id" />
+    <item name="n_word12" type="id" />
+    <item name="nn_word1" type="id" />
+    <item name="nn_word2" type="id" />
+    <item name="nn_word3" type="id" />
+    <item name="nn_word4" type="id" />
+    <item name="nn_word5" type="id" />
+    <item name="nn_word6" type="id" />
+    <item name="nn_word7" type="id" />
+    <item name="nn_word8" type="id" />
+    <item name="nn_word9" type="id" />
+    <item name="nn_word10" type="id" />
+    <item name="nn_word11" type="id" />
+    <item name="nn_word12" type="id" />
+    <item name="save_button" type="id" />
+</resources>
