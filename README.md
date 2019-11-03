@@ -1,16 +1,8 @@
 ### Learn with Sudoku Android App 
 
-#### What it does
-
-Todo
-
 #### Screenshots
 
 Todo 
-
-#### Setup
-
-Todo
 
 #### Technologies/Libraries Used
 
